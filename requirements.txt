@@ -1,0 +1,31 @@
+# Core packages (from README - Environment Setup)
+langgraph
+langchain
+langchain-openai
+langchain-core
+python-dotenv
+
+# Required for Example 4 (structured output with BaseModel)
+pydantic
+
+# For Example 8 (Product QnA with RAG + pricing)
+pandas
+langchain-community
+langchain-chroma
+langchain-text-splitters
+
+# For Example 13 (Paper Summarizer) and agentic_screener (PDF input)
+pypdf
+requests
+
+# For Example 14 (Paper Report - PDF generation)
+fpdf2
+
+# Optional: Debugging/visualization (for graph diagrams)
+# pygraphviz
+# mermaid-py
+
+# Optional: Alternative LLM providers
+# langchain-anthropic   # For Anthropic Claude
+anthropic   # For Chain of Thought demo (Agentic AI Solution Design Patterns)
+# langchain-ollama     # For local models via Ollama
