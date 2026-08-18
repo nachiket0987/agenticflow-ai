@@ -269,6 +269,3 @@ langgraph up
 
 ---
 
-## 📄 License
-
-This repository is maintained for open developer and enterprise educational usage under the **Apache 2.0 License**.
