@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Milestones & Roadmap
+## 1. Roadmap & DoD
 - [x] LangGraph state engine setup.
 - [x] Redis checkpointer integration.
 - [x] Human-in-the-loop API endpoints.
