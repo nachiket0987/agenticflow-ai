@@ -5,5 +5,5 @@
 
 ---
 
-## 1. Interface Design
+## 1. Design Specification
 - Dark Slate interface (#0f172a) featuring dynamic Mermaid graph visualizer, Node State Drawer, and Human-in-the-Loop Approval Modal.
